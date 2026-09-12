@@ -1,4 +1,4 @@
-# Puesto de Frituras
+# Puesto de Frituras — API REST
 
 API REST desarrollada con Laravel para la gestión de un puesto de frituras (papas doradas, duritos, etc.) que vende por kilos y gramos. Proyecto para la materia de Bases de Datos en la Nube.
 
@@ -18,7 +18,7 @@ API REST desarrollada con Laravel para la gestión de un puesto de frituras (pap
 
 ### Diagrama Entidad-Relación
 
-![Diagrama DER](evidencias/der.png)
+![Diagrama DER](evidencias/der.jpg)
 
 ## Instalación
 
@@ -100,7 +100,7 @@ Pruebas realizadas con Thunder Client.
 
 ![PUT productos](evidencias/put-productos.png)
 
-**DELETE /productos/{id} — rechazado por integridad referencial**
+**DELETE /productos/{id} rechazado por integridad referencial**
 
 ![DELETE rechazado](evidencias/delete-rechazado.png)
 
